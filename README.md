@@ -24,3 +24,7 @@ that condition (i) and (ii) are not sufficient for localities with a grower usin
 concentration fungicide programme in a field of large area, and in such cases the rate of
 fungicide resistance selection is substantially increased over their locality, regardless of
 majority low fungicide usage and high dispersion of primary inoculum.
+
+[Read the project report (PDF)](NST3SN_Project_P9_Jack_Rich.pdf)
+
+![Research poster](poster.png)
